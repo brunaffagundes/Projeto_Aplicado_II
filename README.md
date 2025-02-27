@@ -5,7 +5,7 @@
 1. Acesse https://www.kaggle.com/settings e crie uma chave de API
 2. Defina seu usuário e chave no arquivo `.env.exemplo` e o renomeie para `.env`
 3. Crie o ambiente conda com o comando  `conda env create -f environment.yml`
-4. Execute o script `download_data.py`
+4. Execute o script `./utils/download_data.py`
 5. Os dados serão armazenados no diretório `./data`
 
 ## Sobre o Projeto
