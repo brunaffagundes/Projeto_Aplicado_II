@@ -56,6 +56,5 @@ Universidade Presbiteriana Mackenzie.
 | 4 | Encerramento e Ajustes Finais | 26/05/2025 |
 
 ## Apresentação do Projeto
-
 - [Documento em PDF]
 - [Apresentação no Youtube]
